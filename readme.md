@@ -1,12 +1,16 @@
 # shadowsocks DowdLoad
 
-shadowsocks client download, Include **Android、Windows、Mac 、OpenWRT、 Linux shadowsocks Client download**.
+shadowsocks client download, Include **Android、IOS、Windows、Mac 、OpenWRT、 Linux shadowsocks Client download**.
 
 ## Android GUI download
 [**【GitHub】** Android client download](https://github.com/shadowsocks/shadowsocks-android/releases)
 
 ## Windows GUI download
 [**【GitHub】** Windows client download](https://github.com/shadowsocks/shadowsocks-windows/releases)
+
+## IOS GUI download
+
+[**【GitHub】** IOS client download](https://github.com/shadowsocks/shadowsocks-iOS/releases)
 
 ## Mac download
 GUI client
