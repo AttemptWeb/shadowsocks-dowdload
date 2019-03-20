@@ -2,7 +2,7 @@
 
 shadowsocks client download, Include **Android、IOS、Windows、Mac 、OpenWRT、 Linux shadowsocks Client download**.
 
-If you don't have a shadowsocks VPN account yet, You can use [Banwagong 搬瓦工](https://banwagong.cn/self-built) VPN service, which is cheap and simple.(通过[Banwagong 搬瓦工](https://banwagong.cn/self-built) 自建VPN服务) Or use third-party VPN services
+If you don't have a shadowsocks VPN account yet, You can use [Banwagong 搬瓦工](https://banwagong.cn/self-built) VPN service, which is cheap and simple.(通过[Banwagong 搬瓦工](https://banwagong.cn/) 自建VPN服务) Or use third-party VPN services
 
 
 
