@@ -48,3 +48,4 @@ Command-line Client
 
 ## Others
 * [**【Github】** Shadowsocks 笔记](https://github.com/JadaGates/ShadowsocksBio)
+* [**【Github】** V2rayU(基于v2ray核心的mac版客户端)](https://github.com/yanue/V2rayU)
