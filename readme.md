@@ -45,3 +45,6 @@ Command-line Client
 * ```apt-get install shadowsocks-libev```
 
 * ```cpan Net::Shadowsocks```
+
+## Others
+* [**【Github】** Shadowsocks 笔记](https://github.com/JadaGates/ShadowsocksBio)
